@@ -32,8 +32,6 @@ Publications
 
 Working paper
 ======
-Sure! Here’s the information presented in the requested format:
-
 ### 2023
 **Training for Hukou: Evidence from China** (with Shimeng Liu and Wenquan Liang)  
 [PDF](https://lishuanghuang.github.io/assets/training%20for%20hukou.pdf)  
