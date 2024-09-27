@@ -32,10 +32,17 @@ Publications
 
 Working paper
 ======
-* Training for Hukou: Evidence from China [Pdf](https://lishuanghuang.github.io/assets/training for hukou.pdf)
-  - Based on the hukou reform of China, we exploit a unique feature of migrants training to get a hukou(household registration in an urban city) and highlight the misallocation caused by the Chinese-style training motivation.
-* Training for Hukou: Evidence from China [Pdf](https://lishuanghuang.github.io/assets/training for hukou.pdf)
-  - Based on the hukou reform of China, we exploit a unique feature of migrants training to get a hukou(household registration in an urban city) and highlight the misallocation caused by the Chinese-style training motivation.
+Sure! Here’s the information presented in the requested format:
+
+### 2023
+**Training for Hukou: Evidence from China** (with Shimeng Liu and Wenquan Liang)  
+[PDF](https://lishuanghuang.github.io/assets/training%20for%20hukou.pdf)  
+Based on the China Labor-Force Dynamics Survey (CLDS), we find that the participation rate in training has significantly increased after the 2014 hukou reform. The higher the hukou requirements, the larger the participation rate of migrants, with training funds more likely to be self-financed. This phenomenon is attributed to getting bonus points related to the hukou system through training. Additionally, migrants with less than a bachelor’s degree or under 40 years old are more likely to train. Training for hukou can improve individual income; however, the income increment for migrants is 62.08% less than that of natives, coupled with a low skill match. Despite these skill mismatches and less favorable spillover effects, training facilitates the social integration of migrants into their cities of residence.
+
+### 2024
+**Tax Incentives and Labor Market Power: Evidence from China’s Value-added Tax Reform**  
+[PDF](https://lishuanghuang.github.io/assets/Lishuang_Tax%20Incentives%20and%20Labor%20Market%20Power(first_draft).pdf)  
+Using China’s manufacturing firm-level data from 1998 to 2007, I measure labor market distortion as the ratio between a firm’s marginal revenue product of labor (MRPL) and wages. Most manufacturing firms operate in a monopsonistic environment, with an average markdown of 2.30, meaning workers earn only 43.47% of their marginal income. Using a difference-in-differences (DID) approach, this paper finds that the 2004 VAT reform increased labor market distortions, particularly in high-productivity, capital-intensive, and older firms, where workers received a smaller share of MRPL.
 
 In progress
 ======
